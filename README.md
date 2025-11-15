@@ -13,6 +13,17 @@ También permite cambiar dinámicamente entre distintos datasets usando dat.GUI 
 
 ---
 
+##  Vista previa y demostraciones
+
+ **Vídeo de demostración:** [https://www.youtube.com/watch?v=zZKJXQg0S2E](https://www.youtube.com/watch?v=zZKJXQg0S2E)  
+ **Versión online (CodeSandbox):** [https://codesandbox.io/p/sandbox/ptactica-8-ig-zndm4k](https://codesandbox.io/p/sandbox/ptactica-8-ig-zndm4k)
+
+
+
+```md
+
+```
+
 # Tecnologías utilizadas
 - Three.js  
 - OrbitControls  
